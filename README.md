@@ -32,3 +32,7 @@ yarn dev
 
 ***
 ### Blog:
+
+* SQLite3 WASM JS + SvelteKit 1.0, CRUD 
+
+https://zenn.dev/knaka0209/articles/4ee11f9640b04b
