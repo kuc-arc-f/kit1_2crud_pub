@@ -1,7 +1,7 @@
 import { dev } from '$app/environment';
 export const ssr = false;
 import { error } from '@sveltejs/kit';
-import LibSqlite from '../../lib/LibSqlite';
+import LibSqlite from '$lib/LibSqlite';
 //type
 type TPostItem = {
   id: number,

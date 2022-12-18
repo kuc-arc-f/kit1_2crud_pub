@@ -5,8 +5,8 @@
 
 <script lang="ts">
 export const ssr = false;
-import LibSqlite from '../../../../lib/LibSqlite';
-import LibStorage from '../../../../lib/LibStorage';
+import LibSqlite from '$lib/LibSqlite';
+import LibStorage from '$lib/LibStorage';
 
 /** @type {import('./$types').PageData} */
 export let data: any;
