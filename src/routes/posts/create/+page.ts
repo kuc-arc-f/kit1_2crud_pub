@@ -1,4 +1,4 @@
-export const ssr = false;
+//export const ssr = false;
 import { error } from '@sveltejs/kit';
 //type
 type IPostItem = {

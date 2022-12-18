@@ -1,4 +1,3 @@
-export const ssr = false;
 import { error } from '@sveltejs/kit';
 import LibSqlite from '$lib/LibSqlite';
 //type

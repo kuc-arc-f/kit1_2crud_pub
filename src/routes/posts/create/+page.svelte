@@ -4,7 +4,7 @@
 </svelte:head>
 
 <script lang="ts">
-export const ssr = false;
+//export const ssr = false;
 import LibSqlite from '$lib/LibSqlite';
 import LibStorage from '$lib/LibStorage';
 
